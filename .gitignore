@@ -1,0 +1,7 @@
+# MLflow
+HW2/mlruns/
+HW2/output/
+mlruns.db
+**/basic_auth.db
+HW2/mlartifacts/
+HW2/venv/
